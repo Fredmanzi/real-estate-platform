@@ -1,0 +1,11 @@
+# Ignore React node_modules
+real_estate_frontend/node_modules/
+
+# Python cache and env
+real_estate_backend/__pycache__/
+real_estate_backend/env/
+*.pyc
+
+# Common
+.env
+.DS_Store
